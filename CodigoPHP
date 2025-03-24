@@ -1,0 +1,6 @@
+<?php
+  $variable_nombre = 'Sergio Ortiz'
+  echo "Hola mundo, soy " , $variable_nombre;
+?>
+
+
